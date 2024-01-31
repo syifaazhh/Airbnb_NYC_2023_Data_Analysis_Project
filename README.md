@@ -1,2 +1,2 @@
 # Airbnb_NYC_2023_Data_Analysis_Project
-My personal project to perform exploratory data analysis (EDA) on the Airbnb NYC 2023 dataset using Python.
+Explored the growth, changes, and influential factors shaping the Airbnb market in NYC for over the last 12 years, aiming to provide valuable insights into the evolution of hosting trends, pricing dynamics, and geographic distribution.
